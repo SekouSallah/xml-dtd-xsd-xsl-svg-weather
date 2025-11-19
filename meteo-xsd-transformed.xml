@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="meteo.xsd">
+    <mesure date="2025-08-15">
+        <ville nom="Bamako" temperature="28"/>
+        <ville nom="Kayes" temperature="33"/>
+        <ville nom="Tombouctou" temperature="36"/>
+        <ville nom="Gao" temperature="31"/>
+        <ville nom="Segou" temperature="29"/>
+        <ville nom="Koulikoro" temperature="30"/>
+        <ville nom="Mopti" temperature="32"/>
+        <ville nom="Taoudeni" temperature="35"/>
+    </mesure>
+    <mesure date="2025-10-23">
+        <ville nom="Bamako" temperature="26"/>
+        <ville nom="Kayes" temperature="30"/>
+        <ville nom="Tombouctou" temperature="33"/>
+        <ville nom="Gao" temperature="29"/>
+        <ville nom="Segou" temperature="28"/>
+        <ville nom="Koulikoro" temperature="30"/>
+        <ville nom="Mopti" temperature="31"/>
+        <ville nom="Taoudeni" temperature="34"/>
+    </mesure>
+    <mesure date="2025-11-11">
+        <ville nom="Bamako" temperature="30"/>
+        <ville nom="Kayes" temperature="30"/>
+        <ville nom="Tombouctou" temperature="32"/>
+        <ville nom="Gao" temperature="29"/>
+        <ville nom="Segou" temperature="26"/>
+        <ville nom="Koulikoro" temperature="30"/>
+        <ville nom="Mopti" temperature="30"/>
+        <ville nom="Taoudeni" temperature="31"/>
+    </mesure>
+</meteo>
