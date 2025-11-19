@@ -9,7 +9,9 @@ This project demonstrates a complete XML workflow built around weather data, inc
 - an XSL transformation generating an SVG visualization.
 
 ---
-
+## Architecture Representation
+![HTML Output](./static/weather.png)
+---
 ## 1. XML Document: `meteo.xml`
 
 The XML file contains several dated measurements, each listing different cities and their temperatures.  
